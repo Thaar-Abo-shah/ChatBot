@@ -1,7 +1,7 @@
 
 # ChatBot In Python
 
-A simple chat bot in Python with links to smart conversational with this project [vicky](https://github.com/rebal221/vicky) for frontend and this [Chatbot_and_FlutterApp_API](https://github.com/rebal221/Chatbot_and_FlutterApp_API) for server
+A simple chat bot in Python with links to smart conversational with this project [vicky Virtual-Assistant](https://github.com/Thaar-Abo-shah/Virtual-Assistant) for frontend and this [Chatbot_and_FlutterApp_API](https://github.com/Thaar-Abo-shah/Chatbot_and_FlutterApp_API) for server
 ## Installation
 
 First you must download the above projects and follow the steps
